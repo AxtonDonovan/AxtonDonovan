@@ -6,5 +6,5 @@ A developer and network enginner student at core & my name is AxtonDonovan 👋
 I mainly program in Java/JavaScript but also familiar with other languages such as Python, HTML/CSS, Lua etc.
 
 ## Contact
-- **Discord:** axton.donovan
+- **Discord:** axton_kun
 - **email**: axtondonovan@gmail.com
